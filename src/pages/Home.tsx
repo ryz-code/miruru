@@ -211,7 +211,7 @@ const Home = () => {
   }, [itemsCount]);
 
   useEffect(() => {
-    document.title = `Miruro | Watch Anime Online, Free Anime Streaming`;
+    document.title = `Zenime | Watch Anime Online, Free Anime Streaming`;
   }, [activeTab]);
 
   useEffect(() => {
