@@ -619,7 +619,7 @@ const Watch: React.FC = () => {
     return () => document.removeEventListener('keydown', handleKeyDown);
   }, [episodes, currentEpisode, handleEpisodeSelect, lastKeypressTime]);
 
-  // TODO SET PAGE TITLE TO MIRURO + ANIME TITLE
+  // TODO SET PAGE TITLE TO Zenime + ANIME TITLE
   useEffect(() => {
     if (animeInfo && animeInfo.title) {
       document.title =
@@ -628,7 +628,7 @@ const Watch: React.FC = () => {
           animeInfo.title.romaji ||
           animeInfo.title.romaji ||
           '') +
-        ' | Miruro';
+        ' | Zenime';
     }
   }, [animeInfo]);
 
