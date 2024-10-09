@@ -43,7 +43,7 @@ const sections = [
     title2: "What's Zenime?",
     content: (
       <Paragraph>
-        Miruro is an anime streaming site where you can watch anime online in HD
+        Zenime is an anime streaming site where you can watch anime online in HD
         quality with English subtitles or dubbing. You can also download any
         anime you want without registration.
       </Paragraph>
