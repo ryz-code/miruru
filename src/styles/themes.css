@@ -23,8 +23,8 @@
   --global-border-radius: 0.3rem;
   --primary-accent: #8080cf;
   --primary-accent-bg: #595991;
-  --logo-text-transparent: url('/src/assets/miruro-text-transparent-black.webp');
-  --logo-transparent: url('/src/assets/miruro-transparent-black.webp');
+  --logo-text-transparent: url('/src/assets/zenime-text-transparent-black.webp');
+  --logo-transparent: url('/src/assets/zenime-transparent-black.webp');
   --ongoing-dot-color: #aaff00;
   --completed-indicator-color: #00aaff;
   --cancelled-indicator-color: #ff0000;
@@ -54,6 +54,6 @@
   --global-button-text: #ebebeb;
   --global-genre-button-bg: #222222;
   --global-shadow: rgba(255, 255, 255, 0.08);
-  --logo-text-transparent: url('/src/assets/miruro-text-transparent-white.webp');
-  --logo-transparent: url('/src/assets/miruro-transparent-white.webp');
+  --logo-text-transparent: url('/src/assets/zenime-text-transparent-white.webp');
+  --logo-transparent: url('/src/assets/zenime-transparent-white.webp');
 }
