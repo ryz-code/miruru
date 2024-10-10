@@ -21,7 +21,7 @@ Zenime
 
 <p align="center">
   <a href="https://www.miruro.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/Brentph505/Zenime/main/src/assets/miruro-transparent-white.png" alt="Logo" width="200"/>
+    <img src="https://raw.githubusercontent.com/Brentph505/Zenime/main/src/assets/zenime-transparent-white.png" alt="Logo" width="200"/>
   </a>
 </p>
 
